@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "390029774200",
+    "firebase_url": "https://pick-a-pill.firebaseio.com",
+    "project_id": "pick-a-pill",
+    "storage_bucket": "pick-a-pill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390029774200:android:a0363063c68a29e4e00c8d",
+        "android_client_info": {
+          "package_name": "com.example.pick_a_pill_pub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390029774200-ehmn6th1g9cgrkb4lir5m3siv929rmi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9iM24wAR5xzCb_iFItaiJOicskT-mRi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390029774200-ehmn6th1g9cgrkb4lir5m3siv929rmi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390029774200:android:d869b22689de8db6e00c8d",
+        "android_client_info": {
+          "package_name": "com.example.pick_a_pill_px"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390029774200-ehmn6th1g9cgrkb4lir5m3siv929rmi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9iM24wAR5xzCb_iFItaiJOicskT-mRi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390029774200-ehmn6th1g9cgrkb4lir5m3siv929rmi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390029774200:android:002946b9b3496fb2e00c8d",
+        "android_client_info": {
+          "package_name": "com.example.pickapill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390029774200-4l1u3lapg5sqcqbjo8l23f89n6f49r7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pickapill",
+            "certificate_hash": "b6cec827ffdec711a61ce1e02d6c5381b69ffd7f"
+          }
+        },
+        {
+          "client_id": "390029774200-ehmn6th1g9cgrkb4lir5m3siv929rmi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9iM24wAR5xzCb_iFItaiJOicskT-mRi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390029774200-ehmn6th1g9cgrkb4lir5m3siv929rmi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
